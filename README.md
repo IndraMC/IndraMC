@@ -1,9 +1,9 @@
 
 <p align="center"> <h1 align="center"> Hi, I am IndraMC 👋</h1> </p>
 <p align="center">
-<a href="https://youtube.com/channel/@indramcyt"><img src="https://img.shields.io/badge/YouTube-D14836?style=for-the-badge&logo=YouTube&logoColor=white"/> </a>
+<a href="https://youtube.com/@indramcyt?si=gYbclUV3ZHZIqpP4"><img src="https://img.shields.io/badge/YouTube-D14836?style=for-the-badge&logo=YouTube&logoColor=white"/> </a>
 <a href="https://github.com/indramc/"><img src="https://img.shields.io/badge/-Github-FFA116?style=for-the-badge&logo=Github&logoColor=black"/> </a>
-<a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a>
+<a href="https://www.instagram.com/@draahiroshii"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a>
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=IndraMC&label=Profile%20views&color=0e75b6&style=flat" alt="IndraMC"/></p>
